@@ -1,5 +1,7 @@
 # MiniOS-GUI-Simulator (SFML)
-<img src =" resources/assets/os-cover.jpg">
+
+<img src ="resources/assets/os-cover.jpg">
+
 A graphical Mini Operating System Simulator written in C++ using **SFML**.
 This project visualizes processes and memory allocation, and supports simple FCFS and Round-Robin simulation runs.
 
