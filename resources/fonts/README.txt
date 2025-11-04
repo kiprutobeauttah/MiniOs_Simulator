@@ -1,0 +1,1 @@
+Place a TrueType font file named DejaVuSans.ttf here. The simulator will try to load it for rendering text.
