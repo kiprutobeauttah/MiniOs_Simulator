@@ -1,5 +1,5 @@
 # MiniOS-GUI-Simulator (SFML)
-
+<img src =" resources/assets/os-cover.jpg">
 A graphical Mini Operating System Simulator written in C++ using **SFML**.
 This project visualizes processes and memory allocation, and supports simple FCFS and Round-Robin simulation runs.
 
@@ -23,7 +23,8 @@ sudo apt install libsfml-dev
 
 ## Build (CMake)
 ```bash
-git clone <repo-url>
+git clone https://github.com/kiprutobeauttah/MiniOs_Simulator.git
+git push -u origin main
 cd MiniOS-GUI-Simulator
 mkdir build && cd build
 cmake ..
@@ -41,4 +42,7 @@ make
 - The UI currently generates processes with randomized names and values when you click **Create Process**. This keeps the demo self-contained.
 - Place a TTF font at `resources/fonts/DejaVuSans.ttf`. You can download DejaVu Sans or any other TrueType font and rename it accordingly.
 - Future improvements: form-based process creation, animated scheduler stepping, process inspector, drag/drop memory, saving/loading scenarios, and unit tests.
+
+---
+| powered by Beauttah
 
